@@ -18,3 +18,5 @@ docker run aliasgarmurtaza/bookish-octa-fiesta
 
 
 5. Enjoy your personalized reading list! :)
+
+6. (optional) Set up a weekly Postman monitor to get a curated list every week!
