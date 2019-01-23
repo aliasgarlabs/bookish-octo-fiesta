@@ -1,4 +1,4 @@
-# bookish-octo-fiesta
+# Bookish Octo Fiesta
 ![alt text](https://openclipart.org/image/2400px/svg_to_png/204593/octo1.png "Octo fiesting")
 
 Picks 8 books from your Goodreads followers and adds it to your shelf. 
