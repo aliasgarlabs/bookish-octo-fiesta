@@ -2,8 +2,8 @@ require 'rubygems'
 require 'oauth'
 require 'json'
 
-consumer = OAuth::Consumer.new('m6XfTNV4qmNG5cw7DJi79A',
-                               '7uPwvtKvnwupUO8zqFFrmn05MluvuLDRfRf0BYGjO0',
+consumer = OAuth::Consumer.new('<<CONSUMER_ACCESS_KEY>>',
+                               '<<CONSUMER_SECRET_KEY>>',
                                :site => 'https://www.goodreads.com')
 
 request_token = consumer.get_request_token
